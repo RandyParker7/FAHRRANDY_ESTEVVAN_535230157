@@ -576,4 +576,9 @@ footer .credit a {
         margin-bottom: 3rem;
     }
 }
+@media(max-width:450px){
+    html{
+        font-size: 55%;
+    }
+}
 
