@@ -6,7 +6,7 @@ document.querySelector('#hamburger-menu').onclick = () => {
 };
 
 
-// Klik di luar side bar untuk hilangkan hamburger enu nav
+// Klik di luar side bar untuk hilangkan hamburger menu nav
 const hamburger = document.querySelector('#hamburger-menu');
 
 
